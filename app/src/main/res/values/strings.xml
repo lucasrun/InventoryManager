@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Inventory Manager</string>
+
+    <!-- invalid item fields -->
+    <string name="invalid_image">Valid image required</string>
+    <string name="invalid_name">Valid name required</string>
+    <string name="invalid_quantity">Valid quantity required</string>
+    <string name="invalid_price">Valid price required</string>
+
+    <!-- layout strings -->
+    <string name="options">Options</string>
+    <string name="inventory_image">Inventory Image</string>
+    <string name="empty_inventory_text">Inventory is empty\n\nAdd new items</string>
+    <string name="image_edit">Image</string>
+    <string name="name_text">Name</string>
+    <string name="name_edit_text">Item name</string>
+    <string name="price_text">Price/unit</string>
+    <string name="price_edit_text">Item price</string>
+    <string name="type_edit">Type of product</string>
+    <string name="max_quantity_text">Max quantity</string>
+    <string name="max_quantity_amount">0</string>
+    <string name="current_quantity_amount">0</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="out_of_stock">Out of stock</string>
+    <string name="select_item_plz">Please select an item</string>
+    <string name="full_item_info_required">Please fill all fields</string>
+    <string name="error_saving">Item save failed</string>
+    <string name="success_saving">Item saved successfully</string>
+    <string name="load_image">LOAD\nIMAGE</string>
+    <string name="error_deleting">Item delete failed</string>
+    <string name="success_deleting">Item deleted successfully</string>
+    <string name="order_button">ORDER</string>
+    <string name="sale_button">SALE</string>
+    <string name="add_dummy_item">Add dummy item</string>
+    <string name="delete_all_items">Delete all items</string>
+    <string name="menu_save">Save</string>
+    <string name="menu_delete">Delete</string>
+    <string name="add_item">Add item</string>
+    <string name="edit_item">Edit item</string>
+    <string name="delete_item">Delete item?</string>
+    <string name="cancel">Cancel</string>
+    <string name="discard_changes">Discard changes?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+</resources>
